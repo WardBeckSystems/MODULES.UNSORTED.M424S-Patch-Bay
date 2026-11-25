@@ -1,5 +1,5 @@
 # 1969 - M424S - wbsps - module - m424s patch bay 002.jpg
-Wiki page: [M424S](../../../PAGES/M424S.md)
+Wiki page: [M424S](../../../../PAGES/M424S.md)
 
 
 - **Year:** 1969 (module estimate (family))
@@ -23,7 +23,7 @@ Wiki page: [M424S](../../../PAGES/M424S.md)
 
 ```json
 {
- "file": "Modules/UNSORTED/M424S/1969 - M424S - wbsps - module - m424s patch bay 002.jpg",
+ "file": "Modules/UNSORTED/M424S/PHOTOS/1969 - M424S - wbsps - module - m424s patch bay 002.jpg",
  "sha256": "5b909b8b13bf63ae2460094f1a33a0d939ee7ed28108601e1993dc7828816159",
  "kind": "module",
  "models": [
