@@ -1,6 +1,6 @@
 # M424S Patch Bay · Unsorted
 
-Ward-Beck Systems M424S, 1969|2. Wiki page: [M424S on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M424S.html)
+Ward-Beck Systems M424S, 1969|2. Wiki page: [M424S on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M424S-Patch-Bay/)
 
 | Folder | What is in it | Files |
 |---|---|---|
